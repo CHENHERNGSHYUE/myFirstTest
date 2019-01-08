@@ -1,2 +1,6 @@
 // Create new github file and upload program
-git clone "ssh link" => down load the 
+git clone "ssh link" -> down load the Repositories file where uploading data paste
+git status -> check whether the data has been uploaded
+git add -> make all data be ready to upload ("green words")
+git commit -m 'comment you want to write' -> record the uploading date or blablabla...
+git push -> upload the data to the website(Github)
